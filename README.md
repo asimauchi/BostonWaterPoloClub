@@ -1,2 +1,2 @@
-# NewEnglandWaterPoloClub
-Static Website for New England Water Polo Club
+# BostonWaterPoloClub
+Static Website for Boston Water Polo Club
