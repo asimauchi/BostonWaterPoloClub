@@ -22,7 +22,8 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    color: black;
+    font-size: 14px;
 }
 
 .lead {
@@ -35,11 +36,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/bubbles.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .intro-message {
+    color: black;
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
@@ -52,6 +54,7 @@ h6 {
 }
 
 .intro-divider {
+    color: black;
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
